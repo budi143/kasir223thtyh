@@ -14,7 +14,7 @@
   <!-- Theme style -->
   <link rel="stylesheet" href="/vendor/admin/dist/css/adminlte.min.css">
   <!-- Modern theme (override) -->
-  <link rel="stylesheet" href="/vendor/admin/dist/css/modern-theme.css?v=1">
+  <link rel="stylesheet" href="/vendor/admin/dist/css/modern-theme.css?v=2">
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
